@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quang_cao>
+	<loai>
+		<ten>quang_cao_1280x250</ten>
+		<hinh>http://i.imgur.com/IrFz9FI.jpg</hinh>
+		<link>https://www.microsoft.com/store/apps/9p0mc3ttfj76</link>
+	</loai>
+	<loai>
+		<ten>quang_cao_300x250</ten>
+		<hinh>http://i.imgur.com/w7yRloC.jpg</hinh>
+		<link>https://www.microsoft.com/store/apps/9p0mc3ttfj76</link>
+	</loai>
+</quang_cao>
